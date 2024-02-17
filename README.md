@@ -23,7 +23,7 @@
 
 ### Drone Detection and Tracking | IIT TIRUPATI (06/2023 - Present)
 - Generated a multi-drone detection and tracking dataset, pioneering the Multi-Drone Detection and Tracking (MDT) dataset.
-- Introduced YOLO v8 and Strong-SORT, achieving a precision of 0.964 and 0.719 on seen and unseen MDT datasets.
+- Implemented YOLO v8 and Strong-SORT, achieving a precision of 0.964 and 0.719 on seen and unseen MDT datasets.
 
 ### PCA Based Face Recognition | IIT TIRUPATI (10/2020 - 2020)
 - Implemented a PCA-based face recognition system with Python and OpenCV, achieving an impressive accuracy of 93.5%.
